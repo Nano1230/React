@@ -5,7 +5,7 @@ function Footer() {
   return (
     <Box sx={{ bgcolor: '#1976d2', color: 'white', p: 2, mt: 4, textAlign: 'center' }}>
       <Typography variant="body2">
-        &copy; 2024 Mi App - Todos los derechos reservados
+        Mi App hecha con React
       </Typography>
     </Box>
   )
